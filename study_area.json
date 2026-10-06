@@ -1,0 +1,12 @@
+{
+  "name": "study_area",
+  "export": {
+    "mode": "full",
+    "zones": ["Barangay 649", "Barangay 655", "Barangay 657", "Barangay 658", "Barangay 659",
+              "Barangay 664", "Barangay 666", "Barangay 667", "Barangay 668", "Barangay 669",
+              "Barangay 670", "Barangay 676", "Barangay 694", "Barangay 696", "Barangay 697",
+              "Barangay 699"],
+    "districts": [],
+    "selection_mode": "within"
+  }
+}

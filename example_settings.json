@@ -1,4 +1,0 @@
-{
-  "name": "base_full",
-  "export": { "mode": "full", "zones": [], "districts": [] }
-}
